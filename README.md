@@ -110,3 +110,13 @@ Through this project, I practiced:
 ---
 
 **This project is part of my journey toward becoming a Data Analyst.**
+
+## Visualizations
+
+### Average Engagement Rate
+
+![Average Engagement Rate](plots/average_engagement_rate.png)
+
+### Average Total Engagement
+
+![Average Total Engagement](plots/average_total_engagement.png)
